@@ -1,1 +1,1 @@
-# Normal-Distribution-Score
+# Normal Distribution Score
